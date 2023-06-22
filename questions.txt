@@ -1,0 +1,26 @@
+Django Form Handling and Document Upload -Task
+Create a django web application to collect student details.
+The form should have the following fields.
+• Admission No
+o Required Field
+• Full name
+o Max length – 50
+o Required Field
+• Email
+o Max length – 100
+o Required field.
+• Age
+o Should be an integer field
+o Must be less than 18
+• Class
+o Options (1st
+-12th)
+o Use Charfield with choices in models or ChoiceField in forms
+• Description
+o Use TextField in models or Textarea widget in forms
+• Image
+o Upload image of the student(use dummy image)
+• Marklist
+o Upload Marklist of the student either as pdf or word
+Create a database model and save the entries.Note: Create a GtiHub Repository for this 
+task and share the link after completion.
